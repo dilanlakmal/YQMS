@@ -1,4 +1,4 @@
-import { factories } from '../../constants/defects';
+import { factories } from "../../constants/defects";
 
 function FactorySelect({ value, onChange }) {
   return (
