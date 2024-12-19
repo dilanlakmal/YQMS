@@ -1,4 +1,4 @@
-import DatePicker from 'react-datepicker';
+import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 function DateSelector({ selectedDate, onChange }) {
